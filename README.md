@@ -1,1 +1,1 @@
-This is README
+Repository for GIT Open - course
